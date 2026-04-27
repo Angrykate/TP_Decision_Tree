@@ -1,4 +1,4 @@
-# Détection de Fraude Bancaire — TP1 (Notebook pédagogique)
+# Détection de Fraude Bancaire — TP_Decision_Tree
 
 Ce dépôt contient un notebook de TP dédié à la détection de fraude sur des transactions bancaires. Le notebook guide l'étudiant pas à pas depuis l'exploration des données jusqu'à l'évaluation d'un classifieur supervisé.
 
